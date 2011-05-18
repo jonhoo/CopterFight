@@ -7,13 +7,9 @@ javac CopterFight.java
 and run it with:
 java CopterFight
 NOTE:
-To compile the game from source, you also need JavaGameUtils (https://github.com/Jonhoo/JavaGameUtils) and JavaMediaUtils (https://github.com/Jonhoo/JavaMediaUtils)
-These are included with the zip file this game is normally distributed as, but if you get odd import errors, those are probably missing.
-
-Alternately, just double click CopterFight.jar, which has everything precompiled.
+This game utilizes JavaGameUtils (https://github.com/Jonhoo/JavaGameUtils) and JavaMediaUtils (https://github.com/Jonhoo/JavaMediaUtils) which are both hosted on GitHub and included as submodules in the ext/ directory. If you are downloading this as a zip, make sure you also get JavaGameUtils and JavaMediaUtils.
 
 The game was developed for the course 2D and 3D Games Programming at Bond University, QLD, Australia by Jon Gjengset <jon@thesquareplanet.com> in early 2011.
-Student ID: 13089283
 Last change: 28/02/2011
 Subject: 2D and 3D Games Programming
 Semester: 111
