@@ -1,0 +1,6 @@
+[submodule "ext/JavaMediaUtils"]
+	path = ext/JavaMediaUtils
+	url = git://github.com/Jonhoo/JavaMediaUtils.git
+[submodule "ext/JavaGameUtils"]
+	path = ext/JavaGameUtils
+	url = git://github.com/Jonhoo/JavaGameUtils.git

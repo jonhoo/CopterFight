@@ -1,0 +1,9 @@
+g helicopter /images/heli_still_left.png /images/heli_still_right.png /images/heli_right.png /images/heli_left.png
+n /images/coin*.png 4
+n /images/killer*.png 8
+n /images/explosion*.png 8
+o /images/background.png
+o /images/clouds0.png
+o /images/clouds1.png
+o /images/clouds2.png
+o /images/copterfight.png
